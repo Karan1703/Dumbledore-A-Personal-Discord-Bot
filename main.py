@@ -14,6 +14,14 @@ import subprocess
 #from tiktok import get_url
 
 
+
+## THIS BOT WAS MADE TO ENTERTAIN MY FRIENDS IN OUR DISCORD SERVER.
+
+
+
+
+
+
 #---------------------------------------------------------------------------------#
 reddit = praw.Reddit(
     client_id="rU6g17f_4AkaRQ",
