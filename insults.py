@@ -177,7 +177,6 @@ def get_insults():
         "I bite my thumb at you, sir.",
         "I'd call you a tool, but that would imply you were useful in at least one way.",
         "I hope you outlive your children.",
-        "Are you and your dick having a competition to see who can disappoint me the most?",
         "Yo mamma is so ugly her portraits hang themselves.",
         "Your birth certificate is an apology from the abortion clinic.",
         "If you were anymore inbred you'd be a sandwich.",
