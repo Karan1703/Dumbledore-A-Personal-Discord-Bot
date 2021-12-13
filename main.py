@@ -24,10 +24,10 @@ import subprocess
 
 #---------------------------------------------------------------------------------#
 reddit = praw.Reddit(
-    client_id="rU6g17f_4AkaRQ",
-    client_secret="hauOsakNbPJIGghgWuKmlESjRUWe9Q",
-    username="chimera1703  ",
-    password="karan231",
+    client_id="",
+    client_secret="",
+    username="  ",
+    password="",
     user_agent="redditscraper")
 
 #---------------------------------------------------------------------------------#
